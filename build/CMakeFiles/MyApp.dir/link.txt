@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/MyApp.dir/src/main.cpp.o -o MyApp  libMyLibrary.a 

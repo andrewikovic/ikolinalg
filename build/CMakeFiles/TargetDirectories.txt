@@ -1,0 +1,4 @@
+/home/andrija/a/ikolinalg/build/CMakeFiles/MyLibrary.dir
+/home/andrija/a/ikolinalg/build/CMakeFiles/MyApp.dir
+/home/andrija/a/ikolinalg/build/CMakeFiles/edit_cache.dir
+/home/andrija/a/ikolinalg/build/CMakeFiles/rebuild_cache.dir

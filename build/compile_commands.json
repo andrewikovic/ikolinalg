@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/andrija/a/ikolinalg/build",
+  "command": "/usr/bin/clang++  -I/home/andrija/a/ikolinalg/include -g -o CMakeFiles/MyLibrary.dir/src/my_lib.cpp.o -c /home/andrija/a/ikolinalg/src/my_lib.cpp",
+  "file": "/home/andrija/a/ikolinalg/src/my_lib.cpp",
+  "output": "CMakeFiles/MyLibrary.dir/src/my_lib.cpp.o"
+},
+{
+  "directory": "/home/andrija/a/ikolinalg/build",
+  "command": "/usr/bin/clang++  -I/home/andrija/a/ikolinalg/include -g -o CMakeFiles/MyApp.dir/src/main.cpp.o -c /home/andrija/a/ikolinalg/src/main.cpp",
+  "file": "/home/andrija/a/ikolinalg/src/main.cpp",
+  "output": "CMakeFiles/MyApp.dir/src/main.cpp.o"
+}
+]
